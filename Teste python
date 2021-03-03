@@ -1,0 +1,12 @@
+teste 
+
+
+print("====Calculand Notas ==========")
+
+nome = input("Digite o seu nome:\n")
+u1 = int(input("Digite outro numero:\n "))
+u2 = int(input("Digite outro numero:\n"))
+
+media = float (u1+u2/2)
+
+print("Sua media é : " ,media)
